@@ -1,6 +1,6 @@
 # CentOS-FSF
 
-Single layer Dockerfile for [FSF](https://github.com/EmersonElectricCo/fsf) running on CentOS 7.2.
+Single layer Dockerfile for [FSF](https://github.com/EmersonElectricCo/fsf) running on CentOS 7.
 
 ## Usage:
 
